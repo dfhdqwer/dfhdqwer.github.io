@@ -365,6 +365,13 @@ img.img-circle.team-img {
 	padding: 9px;
 	color: #5a5a5a;
 }
+
+#team .thumbnail .caption p{
+	    font-size:112%;
+	    text-align: justify;
+   	    margin-left: 41%
+}
+
 /* Services Section */
 #services {
 	padding: 80px 0;
